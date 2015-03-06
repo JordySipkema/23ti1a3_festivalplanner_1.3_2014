@@ -1,4 +1,5 @@
-random_name_for_repository
+Festival Planner and simulation
 ==========================
 
-avans hogeschool
+Wrtten in Java.
+(Technische Informatica, TI1.3, Avans Hogeschool)
